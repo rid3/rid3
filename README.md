@@ -2,11 +2,12 @@ Buenas!
 Soy Andrés (él)
 
 
-:computer: Junior Full Stack Web Developer 
+:computer: Junior Full Stack Web Developer
+
 (Javascript, MERN Stack)
 
 
-Contacto:
+
 :envelope: andi.alberdicicchi@gmail.com
 
 :pushpin: www.linkedin.com/in/andres-alberdi
