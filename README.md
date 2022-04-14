@@ -1,4 +1,11 @@
-### Hi there 👋
+Buenas! 
+Soy Andrés (él)
+:computer: Junior Full Stack Web Developer 
+(Javascript, MERN Stack)
+
+Contacto:
+:envelope: andi.alberdicicchi@gmail.com
+:pushpin: www.linkedin.com/in/andres-alberdi
 
 <!--
 **rid3/rid3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
